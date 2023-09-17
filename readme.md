@@ -1,7 +1,7 @@
 # Basics
 This section cover preliminary information for understanding how this works and what is recommended to know for installing modded Minecraft clients and installing mods for them. Unless specified otherwise, it is common practice to install and use the latest versions of launchers, Minecraft builds, and mods.
 
-## If you have not migrated your Mojang account to a Microsoft account, you will be required to. Account migration can be done [here](https://www.minecraft.net/en-us/mojang-account-move)
+## If you have not migrated your Mojang account to a Microsoft account, you will be required to. Account migration can be done [here](https://www.minecraft.net/en-us/mojang-account-move).
 
 ## Launcher
 A launcher is a client used for running Minecraft, custom builds, and servers. How to use will depend based on what launcher you use. GDLauncher or Prism Launcher are recommended for managing multiple Minecraft instances with mods and resource packs.
